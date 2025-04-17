@@ -1,0 +1,17 @@
+.a1{
+  display: inline-block;
+  width: 174px;
+  height: 15px;
+  border: 2px solid black;
+  margin: 3px;
+  padding: 0px;
+}
+
+.a2{
+  display: inline-block;
+  width: 116px;
+  height: 15px;
+  border: 2px solid black;
+  margin: 3px;
+  padding: 0px;
+}
